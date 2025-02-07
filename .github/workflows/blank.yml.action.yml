@@ -7,4 +7,3 @@ Jobs:
     -run; echo 'hello world"
     name: print goodbye
     run: echo "done - bye!"
-    
